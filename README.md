@@ -1,2 +1,2 @@
 # Curriculo
-<img width="605" height="851" alt="Screenshot 2026-07-23 at 14 31 38" src="https://github.com/user-attachments/assets/33eecd1a-6b3c-4eea-b229-1a9c4827c733" />
+<img width="605" height="851" alt="JoseCoelhoSilva_Currículo_Freelancer" src="https://github.com/user-attachments/assets/955e4764-204c-4d20-b244-46f5c67b07c9" />
